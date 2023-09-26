@@ -12,14 +12,12 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 <br>
 
-### **Capítulo 01 - Introdução à API da OpenAI**
-<br>
+### **DOI**
 
-DOI: https://doi.org/10.5753/sbc.12954.7
-
-###### &nbsp;&nbsp;&nbsp; [Introdução à API da OpenAI.pdf](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/129-Manuscrito%20de%20cap%C3%ADtulo-864-1-10-20230915.pdf)
+###### &nbsp;&nbsp;&nbsp; [https://doi.org/10.5753/sbc.12954.7](https://doi.org/10.5753/sbc.12954.7)
 
 <br>
+
 ### **Notebooks no Google Colab**
 <br>
 
