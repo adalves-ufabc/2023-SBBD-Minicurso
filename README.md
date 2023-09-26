@@ -12,12 +12,14 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 <br>
 
-### **02 - Configuração da API**
+## **Notebooks no Google Colab**
 
-##### &nbsp;&nbsp;&nbsp; [2023_Q1_PLN_Notebook_01.ipynb](https://github.com/adalves-ufabc/2023.Q1-PLN/blob/main/Aula%2003/2023_Q1_PLN_Notebook_01.ipynb)
+### 2 - Configuração da API
 
-### **03 - Como utilizar a API**
+##### &nbsp;&nbsp;&nbsp; [2_Configura%C3%A7%C3%A3o_da_API.ipynb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/2_Configura%C3%A7%C3%A3o_da_API.ipynb)
+
+### 3 - Como utilizar a API
 
 
-### **04 - Exemplos práticos**
+### 4 - Exemplos práticos
 
