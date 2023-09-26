@@ -16,9 +16,10 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 ###### &nbsp;&nbsp;&nbsp; [https://doi.org/10.5753/sbc.12954.7](https://doi.org/10.5753/sbc.12954.7)
 
+<br>
+
 ### **Notebooks no Google Colab**
 
-<br>
 
 #### SEÇÃO 02 - Configuração da API
 
@@ -36,7 +37,6 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 ### **JavaScript (Node.js)**
 
-<br>
 
 #### SEÇÃO 02 - Configuração da API
 
@@ -54,8 +54,6 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 ### **Slides**
 
-<br>
-
 #### SEÇÃO 01 - Introdução
 
 #### SEÇÃO 02 - Configuração da API
@@ -65,7 +63,6 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 #### SEÇÃO 04 - Exemplos práticos
 
 #### SEÇÃO 05 - Considerações finais
-
 
 
 
