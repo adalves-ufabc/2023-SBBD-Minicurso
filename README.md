@@ -16,9 +16,8 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 ###### &nbsp;&nbsp;&nbsp; [https://doi.org/10.5753/sbc.12954.7](https://doi.org/10.5753/sbc.12954.7)
 
-<br>
-
 ### **Notebooks no Google Colab**
+
 <br>
 
 #### SEÇÃO 02 - Configuração da API
@@ -34,7 +33,9 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 ###### &nbsp;&nbsp;&nbsp; [OpenAI_Exemplos_Práticos.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/4_Exemplos_pr%C3%A1ticos.ipynb)
 
 <br>
+
 ### **JavaScript (Node.js)**
+
 <br>
 
 #### SEÇÃO 02 - Configuração da API
@@ -50,7 +51,9 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 ###### &nbsp;&nbsp;&nbsp; [OpenAI_Configuração_API_Figura1_5.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_5.js)
 
 <br>
+
 ### **Slides**
+
 <br>
 
 #### SEÇÃO 01 - Introdução
