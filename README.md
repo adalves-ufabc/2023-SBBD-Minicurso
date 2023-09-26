@@ -15,7 +15,7 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 ### **DOI**
 
 ###### &nbsp;&nbsp;&nbsp; [https://doi.org/10.5753/sbc.12954.7](https://doi.org/10.5753/sbc.12954.7)
-<br>
+
 
 ### **Notebooks no Google Colab**
 
