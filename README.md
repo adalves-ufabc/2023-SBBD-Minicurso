@@ -14,9 +14,9 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 ### **Notebooks no Google Colab**
 
-#### 2 - Configuração da API
+#### SEÇÃO 02 - Configuração da API
 
-###### &nbsp;&nbsp;&nbsp; [2 - Configuração da API](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/2_Configura%C3%A7%C3%A3o_da_API.ipynb)
+###### &nbsp;&nbsp;&nbsp; [SBBD_Minicurso_OpenAI_Configuração_API.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/2_Configura%C3%A7%C3%A3o_da_API.ipynb)
 
 #### 3 - Como utilizar a API
 
