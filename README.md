@@ -26,5 +26,36 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 ###### &nbsp;&nbsp;&nbsp; [OpenAI_Exemplos_Práticos.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/4_Exemplos_pr%C3%A1ticos.ipynb)
 
+<br>
+
+### **JavaScript (Node.js)**
+
+#### SEÇÃO 02 - Configuração da API
+
+###### &nbsp;&nbsp;&nbsp; [OpenAI_Como_utilizar_API_Figura1_2.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_2.js)
+
+#### SEÇÃO 03 - Como utilizar a API
+
+###### &nbsp;&nbsp;&nbsp; [OpenAI_Como_utilizar_API_Figura1_3.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_3.js)
+
+###### &nbsp;&nbsp;&nbsp; [OpenAI_Como_utilizar_API_Figura1_4.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_4.js)
+
+###### &nbsp;&nbsp;&nbsp; [OpenAI_Configuração_API_Figura1_5.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_5.js)
+
+<br>
+
+### **Slides**
+
+#### SEÇÃO 01 - Introdução
+
+#### SEÇÃO 02 - Configuração da API
+
+#### SEÇÃO 03 - Como utilizar a API
+
+#### SEÇÃO 04 - Exemplos práticos
+
+#### SEÇÃO 05 - Considerações finais
+
+
 
 
