@@ -53,6 +53,8 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 #### SEÇÃO 01 - Introdução
 
+###### &nbsp;&nbsp;&nbsp; [Introdução.pptx](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/slides/1.%20API%20OpenAI%20-%20Introdu%C3%A7%C3%A3o.pptx)
+
 #### SEÇÃO 02 - Configuração da API
 
 #### SEÇÃO 03 - Como utilizar a API
