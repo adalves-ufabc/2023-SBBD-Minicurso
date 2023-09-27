@@ -57,6 +57,8 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 #### SEÇÃO 02 - Configuração da API
 
+###### &nbsp;&nbsp;&nbsp; [Configuração da API.pptx](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/slides/2.%20API%20OpenAI%20-%20Configura%C3%A7%C3%A3o%20da%20API.pptx)
+
 #### SEÇÃO 03 - Como utilizar a API
 
 #### SEÇÃO 04 - Exemplos práticos
