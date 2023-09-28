@@ -65,6 +65,8 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 #### SEÇÃO 04 - Exemplos práticos
 
+###### &nbsp;&nbsp;&nbsp; [Exemplos práticos.pptx](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/slides/4.%20API%20OpenAI%20-%20Exemplos%20pr%C3%A1ticos.pptx)
+
 #### SEÇÃO 05 - Considerações finais
 
 ###### &nbsp;&nbsp;&nbsp; [Considerações finais.pptx](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/slides/5.%20API%20OpenAI%20-%20Considera%C3%A7%C3%B5es%20finais.pptx)
