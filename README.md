@@ -3,7 +3,8 @@
 
 Prof. Alexandre Donizeti Alves
 
-Universidade Federal do ABC [UFABC]
+<font size="1"> Universidade Federal do ABC [UFABC] 
+</font>
 
 
 Centro de Matemática, Computação e Cognição [CMCC]
