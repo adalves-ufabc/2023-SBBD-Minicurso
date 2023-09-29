@@ -18,7 +18,7 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 <br>
 
 ### **Notebooks no Google Colab**
--------
+
 
 #### SEÇÃO 02 - Configuração da API
 
