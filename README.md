@@ -3,12 +3,9 @@
 
 Prof. Alexandre Donizeti Alves
 
-<font size="1"> Universidade Federal do ABC [UFABC] 
-</font>
-
+Universidade Federal do ABC [UFABC]
 
 Centro de Matemática, Computação e Cognição [CMCC]
-
 
 E-mail: alexandre.donizeti@ufabc.edu.br
 <br>
