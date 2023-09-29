@@ -22,15 +22,15 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 ###### SEÇÃO 02 - Configuração da API
 
-###### &nbsp;&nbsp;&nbsp; [OpenAI_Configuração_API.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/2_Configura%C3%A7%C3%A3o_da_API.ipynb)
+###### &nbsp;&nbsp;&nbsp; [Configuração_API.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/2_Configura%C3%A7%C3%A3o_da_API.ipynb)
 
 ###### SEÇÃO 03 - Como utilizar a API
 
-###### &nbsp;&nbsp;&nbsp; [OpenAI_Como_utilizar_API.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/3_Como_utilizar_a_API.ipynb)
+###### &nbsp;&nbsp;&nbsp; [Como_utilizar_API.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/3_Como_utilizar_a_API.ipynb)
 
 ###### SEÇÃO 04 - Exemplos práticos
 
-###### &nbsp;&nbsp;&nbsp; [OpenAI_Exemplos_Práticos.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/4_Exemplos_pr%C3%A1ticos.ipynb)
+###### &nbsp;&nbsp;&nbsp; [Exemplos_Práticos.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/4_Exemplos_pr%C3%A1ticos.ipynb)
 
 <br>
 
@@ -38,15 +38,15 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 ###### SEÇÃO 02 - Configuração da API
 
-###### &nbsp;&nbsp;&nbsp; [OpenAI_Configuração_API_Figura1_2.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_2.js)
+###### &nbsp;&nbsp;&nbsp; [Configuração_API_Figura1_2.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_2.js)
 
 ###### SEÇÃO 03 - Como utilizar a API
 
-###### &nbsp;&nbsp;&nbsp; [OpenAI_Como_utilizar_API_Figura1_3.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_3.js) 
+###### &nbsp;&nbsp;&nbsp; [Como_utilizar_API_Figura1_3.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_3.js) 
 
-###### &nbsp;&nbsp;&nbsp; [OpenAI_Como_utilizar_API_Figura1_4.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_4.js) 
+###### &nbsp;&nbsp;&nbsp; [Como_utilizar_API_Figura1_4.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_4.js) 
 
-###### &nbsp;&nbsp;&nbsp; [OpenAI_Configuração_API_Figura1_5.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_5.js)
+###### &nbsp;&nbsp;&nbsp; [Configuração_API_Figura1_5.js](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/js/Figura1_5.js)
 
 <br>
 
