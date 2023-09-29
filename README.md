@@ -34,7 +34,7 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 <br>
 
-### **JavaScript (Node.js)**
+### `JavaScript (Node.js)`
 
 #### SEÇÃO 02 - Configuração da API
 
@@ -50,7 +50,7 @@ E-mail: alexandre.donizeti@ufabc.edu.br
 
 <br>
 
-### **Slides**
+### `Slides`
 
 #### SEÇÃO 01 - Introdução
 
